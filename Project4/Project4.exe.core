@@ -1,0 +1,23 @@
+[sig] Project4 2057 (0) exception: trapped!
+[sig] Project4 2057 (0) exception: code 0xC0000005 at 0x6105AFA1
+[sig] Project4 2057 (0) exception: ax 0x61072728 bx 0xF010BC8 cx 0x61062728 dx 0x61072728
+[sig] Project4 2057 (0) exception: si 0x128 di 0xF010AA0 bp 0x60AFD6C sp 0x60AFD40
+[sig] Project4 2057 (0) exception: exception is: STATUS_ACCESS_VIOLATION
+[sig] Project4 2057 (0) stack: Stack trace:
+[sig] Project4 2057 (0) stack: frame 0: sp = 0x60AF764, pc = 0x6100A2C3
+[sig] Project4 2057 (0) stack: frame 1: sp = 0x60AF7A0, pc = 0x775DB459
+[sig] Project4 2057 (0) stack: frame 2: sp = 0x60AF7C4, pc = 0x775DB42B
+[sig] Project4 2057 (0) stack: frame 3: sp = 0x60AF874, pc = 0x77590133
+[sig] Project4 2057 (0) stack: frame 4: sp = 0x60AFD6C, pc = 0x6101A4A7
+[sig] Project4 2057 (0) stack: frame 5: sp = 0x60AFD7C, pc = 0x6101A3F6
+[sig] Project4 2057 (0) stack: frame 6: sp = 0x60AFD88, pc = 0x6104B87F
+[sig] Project4 2057 (0) stack: frame 7: sp = 0x60AFE10, pc = 0x6100D93E
+[sig] Project4 2057 (0) stack: frame 8: sp = 0x60AFE20, pc = 0x6105F248
+[sig] Project4 2057 (0) stack: frame 9: sp = 0x60AFE30, pc = 0x610190B9
+[sig] Project4 2057 (0) stack: frame 10: sp = 0x60AFE48, pc = 0x61030C1E
+[sig] Project4 2057 (0) stack: frame 11: sp = 0x60AFE84, pc = 0x6102FF3E
+[sig] Project4 2057 (0) stack: frame 12: sp = 0x60AFE94, pc = 0x610045DD
+[sig] Project4 2057 (0) stack: frame 13: sp = 0x60AFEB8, pc = 0x6100ADF4
+[sig] Project4 2057 (0) stack: frame 14: sp = 0x60AFF10, pc = 0x6102BE53
+[sig] Project4 2057 (0) stack: frame 15: sp = 0x60AFF58, pc = 0x61004A36
+[sig] Project4 2057 (0) stack: End of stack trace (more stack frames may be present)
